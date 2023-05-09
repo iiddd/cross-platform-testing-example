@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <selenium.version>3.141.59</selenium.version>
-        <testNG.version>7.1.0</testNG.version>
+        <testNG.version>7.5.1</testNG.version>
         <appium.version>7.3.0</appium.version>
         <webDriverManager.version>3.8.1</webDriverManager.version>
         <allure.version>2.10.0</allure.version>
